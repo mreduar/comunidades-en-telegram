@@ -28,8 +28,8 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [Data Science Venezuela](https://t.me/DataScienceVE) - @map0logo
 * [Datos Abiertos y scraping](https://t.me/joinchat/B9JUAAaks9m5-2TefJsAuw) - @Seraph1
 * [Developers Ve. en el Mundo](https://t.me/DevelopersVeMundo) - @villanuevand - @juandelgadillo  - @julio - @foursixnine
-* [DenoJS VE](https://t.me/DenojsVE) @Zontir
-* [Desarrollo de Bots](https://t.me/devbots) - @ajsb85 - @AlexR1712 - @Zontir
+* [DenoJS VE](https://t.me/DenojsVE) @mreduar
+* [Desarrollo de Bots](https://t.me/devbots) - @ajsb85 - @AlexR1712 - @mreduar
 * [Desarrollo VideoJuegos](https://t.me/devjuegos) - @AlexR1712 - @BrandonR
 * [Developers de Venezuela](https://t.me/VenezuelaDev) - @IvanMontilla
 * [Django](https://t.me/DjangoVE) - @cherny
@@ -47,6 +47,7 @@ Si deseas agregar algún canal o tienes alguna sugerencia, puedes usar [@openve]
 * [GLPI y Gestión de Servicios de TI](https://t.me/glpisp) - @ajsb85 - @btry0 - @Thinkcad - @Wawax - @TICgal
 * [Go](https://t.me/golangve) - @aasanchez - @SoyJrCarrillo
 * [Hackers and Founders Maracay](https://t.me/hfmaracay) - @rafaelje - @hectorerb - @delfinbeta - @marcoah17 - @Daregny
+* [Inteligencia Artificial](https://t.me/AIVenezuela) - @mreduar
 * [Inteligencia Artificial](https://t.me/IAVenezuela) - @BrandonR - @AlexR1712 - @VIT4R
 * [Interaction Design - Diseño Interactivo](https://t.me/interactiondesgin_spanish) - @m0000g
 * [iOS](https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg) - @ajmarquez
